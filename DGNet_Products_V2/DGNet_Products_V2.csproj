@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,11 +51,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DGNetDAO\DGNetDAO.csproj">
       <Project>{a608c01e-7e41-4f2a-a752-6b0b2dfc2122}</Project>
       <Name>DGNetDAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DGNetDDF\DGNetDDF.csproj">
+      <Project>{65eaf294-9bea-4446-b953-e8ad7ef8e95c}</Project>
+      <Name>DGNetDDF</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DGNetWs\DGNetWs.csproj">
+      <Project>{c610dd46-f4af-4871-b3d1-8a0c774e1626}</Project>
+      <Name>DGNetWs</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
