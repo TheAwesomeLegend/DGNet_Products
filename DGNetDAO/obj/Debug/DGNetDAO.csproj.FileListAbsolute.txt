@@ -1,0 +1,9 @@
+C:\git\Local\DGNet_Products_V2\DGNetDAO\bin\Debug\DGNetDAO.dll
+C:\git\Local\DGNet_Products_V2\DGNetDAO\bin\Debug\DGNetDAO.pdb
+C:\git\Local\DGNet_Products_V2\DGNetDAO\bin\Debug\System.Data.SQLite.dll
+C:\git\Local\DGNet_Products_V2\DGNetDAO\bin\Debug\System.Data.SQLite.xml
+C:\git\Local\DGNet_Products_V2\DGNetDAO\obj\Debug\DGNetDAO.csproj.AssemblyReference.cache
+C:\git\Local\DGNet_Products_V2\DGNetDAO\obj\Debug\DGNetDAO.csproj.CoreCompileInputs.cache
+C:\git\Local\DGNet_Products_V2\DGNetDAO\obj\Debug\DGNetDAO.csproj.CopyComplete
+C:\git\Local\DGNet_Products_V2\DGNetDAO\obj\Debug\DGNetDAO.dll
+C:\git\Local\DGNet_Products_V2\DGNetDAO\obj\Debug\DGNetDAO.pdb

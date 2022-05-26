@@ -1,0 +1,13 @@
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\bin\Debug\DGNet_Products_V2.exe.config
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\bin\Debug\DGNet_Products_V2.exe
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\bin\Debug\DGNet_Products_V2.pdb
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\bin\Debug\DGNetDAO.dll
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\bin\Debug\System.Data.SQLite.dll
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\bin\Debug\DGNetDAO.pdb
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\bin\Debug\System.Data.SQLite.xml
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\obj\Debug\DGNet_Products_V2.csproj.AssemblyReference.cache
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\obj\Debug\DGNet_Products_V2.csproj.SuggestedBindingRedirects.cache
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\obj\Debug\DGNet_Products_V2.csproj.CoreCompileInputs.cache
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\obj\Debug\DGNet_Products_V2.csproj.CopyComplete
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\obj\Debug\DGNet_Products_V2.exe
+C:\git\Local\DGNet_Products_V2\DGNet_Products_V2\obj\Debug\DGNet_Products_V2.pdb
